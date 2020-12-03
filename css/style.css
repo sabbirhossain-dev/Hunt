@@ -222,7 +222,7 @@ nav ul li a:hover:after {
 
 #banner-part .overlay a:hover {
     background: #fec600;
-    border: 1px solid #fec600;
+    border-color: #fec600;
     color: #222222;
 }
 
